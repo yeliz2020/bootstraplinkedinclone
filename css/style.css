@@ -137,6 +137,11 @@ div.sticky {
 }
 
 button:hover {
-    background-color: #bfc3c5;
+    background-color: #bfc3c5 !important;
     border-radius: 5%;
+}
+
+.bg-none {
+    background-color: white !important;
+    border-bottom: none !important;
 }
